@@ -1,0 +1,24 @@
+{
+  "name": "electron-mongodb",
+  "version": "0.0.1",
+  "description": "Learn mongodb first app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/electron/electron-quick-start",
+  "keywords": [
+    "Electron",
+    "Mongodb"
+  ],
+  "author": "Lei Ma",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "~1.8.2"
+  },
+  "dependencies": {
+    "assert": "^1.4.1",
+    "mongodb": "^3.0.3",
+    "vue": "^2.5.13"
+  }
+}
